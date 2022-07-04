@@ -1,0 +1,18 @@
+SMAP
+ScriptDeclaration_jsp.java
+JSP
+*S JSP
+*F
++ 0 ScriptDeclaration.jsp
+ScriptDeclaration.jsp
+*L
+5,11:50
+16,5:11
+20:61
+21:62,3
+22,3:65
+25:68,3
+26:71
+27:72,3
+28,3:75
+*E
